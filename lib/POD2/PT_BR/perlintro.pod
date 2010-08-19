@@ -1,8 +1,8 @@
-=encoding utf-8
+=encoding utf8
 
 =head1 NOME
 
-perlintro -- uma breve introdução ao Perl
+perlintro - uma breve introdução ao Perl
 
 =head1 DESCRIÇÃO
 
