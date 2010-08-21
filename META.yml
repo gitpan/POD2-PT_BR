@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               POD2-PT_BR
-version:            0.03
+version:            0.04
 abstract:           Brazilian portuguese translation of Perl core documentation
 author:
     - The Brazilian Perl Community

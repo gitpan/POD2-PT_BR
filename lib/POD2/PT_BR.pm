@@ -5,7 +5,7 @@ use strict;
 use utf8;
 use base 'POD2::Base';
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 sub search_perlfunc_re {
     return 'Listagem Alfabética das Funções do Perl';
@@ -155,7 +155,7 @@ and to the nice people involved in the translation effort worldwide.
 
 L<< POD2::Base >>
 
-L<< POD2::IT >>, L<< POD2::FR >>, L<< POD2::LT >>, L<< POD2::CN >>, L<< POD2::CN >>, L<< POD2::DE >>, L<< POD2::ES >>.
+L<< POD2::IT >>, L<< POD2::FR >>, L<< POD2::LT >>
 
 L<< http://pod2.perl.org >>
 
@@ -164,7 +164,7 @@ L<< http://perldoc.perl.org.br >>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009 The Brazilian Perl Community.
+Copyright 2009-2010 The Brazilian Perl Community.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
