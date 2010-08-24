@@ -5,7 +5,7 @@ use strict;
 use utf8;
 use base 'POD2::Base';
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 sub search_perlfunc_re {
     return 'Listagem Alfabética das Funções do Perl';
@@ -17,6 +17,7 @@ sub pod_info {
     perlboot     => '5.10.1',
     perlbook     => '5.10.1',
     perldsc      => '5.8.7',
+    perlstyle    => '5.10.1',
 }
 
 42;
