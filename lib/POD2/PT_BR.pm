@@ -5,19 +5,20 @@ use strict;
 use utf8;
 use base 'POD2::Base';
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 sub search_perlfunc_re {
     return 'Listagem Alfabética das Funções do Perl';
 }
 
 sub pod_info {
-    perlintro    => '5.10.1',
-    perlutil     => '5.8.7',
-    perlboot     => '5.10.1',
     perlbook     => '5.10.1',
+    perlboot     => '5.10.1',
     perldsc      => '5.8.7',
+    perlintro    => '5.10.1',
+    perlreftut   => '5.10.1',
     perlstyle    => '5.10.1',
+    perlutil     => '5.8.7',
 }
 
 42;
@@ -89,6 +90,8 @@ Tradutores (em ordem alfabética):
 =item * Daniel Mantovani
 
 =item * Eden Cardim
+
+=item * Frederico Recksy
 
 =item * Igor Sutton
 
